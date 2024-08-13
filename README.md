@@ -1,6 +1,9 @@
 # dotfiles (EN/FR/DE/NL)
 
+[NL](#nl)
+
 The dotfiles i use for Hyprland / Arch, or as i have been recently calling it HYPRLAND + ARCH (reference lol, i actually call it Hyprarch)
+
 
 # Installation
 
@@ -57,7 +60,7 @@ Die dotfiles welche ich für Hyprland / Arch benutze, oder wie ich es seit letzt
 
 -----------
 
-# NL
+# <a name="nl"> NL </a>
 
 De dotfiles welk ik gebruik voor Hyprland / Arch, of hoe ik het noem, Hyprland + Arch (referens lol, ik noem hes Hyprarch)
 
