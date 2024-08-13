@@ -1,0 +1,25 @@
+
+
+alias ls='ls -Fah --color=auto'
+alias grep='grep --color=auto'
+alias p='sudo pacman'
+alias neofetch='neofetch --ascii /home/lee/mainFiles/disascii/archey'
+alias 2024='echo "YEAR OF THE DESKTOP"'
+
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+setopt autocd
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/lee/.zshrc'
+
+autoload -Uz compinit
+compinit
+eval "$(starship init zsh)"
+# End of lines added by compinstall
+source /home/lee/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/lee/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+clear && neofetch

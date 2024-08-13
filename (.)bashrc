@@ -1,0 +1,18 @@
+﻿#
+# ~/.bashrc
+#
+
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls -Fah --color=auto'
+alias grep='grep --color=auto'
+alias p='sudo pacman'
+alias neofetch='neofetch --ascii /home/lee/mainFiles/disascii/archey'
+PS1='[\u@\h \W]\$ '
+
+
+sh ./SUPA.sh
+zsh
+neofetch
