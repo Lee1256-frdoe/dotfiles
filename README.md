@@ -1,6 +1,12 @@
 # dotfiles (EN/FR/DE/NL)
 
+[EN](#en)
+[FR](#fr)
+[DE](#de)
 [NL](#nl)
+
+
+# <a name="en"> EN </a>
 
 The dotfiles i use for Hyprland / Arch, or as i have been recently calling it HYPRLAND + ARCH (reference lol, i actually call it Hyprarch)
 
@@ -19,8 +25,9 @@ The dotfiles i use for Hyprland / Arch, or as i have been recently calling it HY
 - config.sh
 - mainFiles/
 
------------
-# FR
+-------
+
+# <a name="fr"> FR </a>
 Les dotfiles j'utilise pour Hyprland / Arch, ou que j'avais c'appelle
 , Hyprland + Arch (reference mdr, je c'appelle Hyprarch)
 
@@ -40,7 +47,7 @@ Les dotfiles j'utilise pour Hyprland / Arch, ou que j'avais c'appelle
 
 -----------
 
-# DE
+# <a name="de"> DE </a>
 
 Die dotfiles welche ich für Hyprland / Arch benutze, oder wie ich es seit letztem nenne, Hyprland + Arch (referenz lol, ich nenne es Hyprarch)
 
